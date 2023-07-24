@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vesper</h1>
-- I’m currently working on [Cogitator](https://github.com/Vessov/Cogitator)
+- I’m currently working on <a href="https://github.com/Vessov/Cogitator">Cogitator</a> 
 
 - I’m currently learning **Python, C++, administration of company-based Jira projects and leading small-team projects**
 
