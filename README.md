@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vesper</h1>
-- I’m currently working on <a href="https://github.com/Vessov/JiraScrapper">JiraScrapper</a> 
+- I’m currently working on <a href="https://github.com/Vessov/DearPyGui_Animate/tree/v0.2">DearPyGUI-Animate v0.2</a> 
 
-- I’m currently learning **Python, C++, administration of company-based Jira projects and leading small-team projects**
+- I’m currently learning **Python, Rust, administration of company-based Jira projects and leading small-team projects**
 
 - To reach me about joining any of projects I'm involved in or leading, write to me at **vespersovari@gmail.com**
 
